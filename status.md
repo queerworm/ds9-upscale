@@ -4,10 +4,10 @@
 
 | Season    | Status                  |
 | --------- | ----------------------- |
-| Season 1  | In Progress             |
+| Season 1  | In Progress...          |
 | Season 2  | Not Started             |
 | Season 3  | Not Started             |
-| Season 4  | Complete                |
+| Season 4  | Uploading to seedbox... |
 | Season 5  | Not Started             |
 | Season 6  | Not Started             |
 | Season 7  | Not Started             |
