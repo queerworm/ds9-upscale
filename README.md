@@ -121,7 +121,7 @@ of that episode.
 
 ### How's the visual quality compare to the remaster for the documentary?
 
-No contest. This upscale at it's best can't compete with the scenes they
+No contest. This upscale at its best can't compete with the scenes they
 remastered for [What We Left Behind][doc]. However, remastering just those
 scenes was a huge undertaking, and unless CBS decides they want to do it for the
 whole show (unlikely), AI upscales are our best hope at improving on what we've
