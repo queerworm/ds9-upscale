@@ -114,7 +114,7 @@ shouldn't trust some random VPN company.
 
 ### I found a visual bug in your upscale. Can you fix it?
 
-Maybe. If it doesn't look worse the the DVD source, or if it's unlikely to be
+Maybe. If it doesn't look worse than the DVD source, or if it's unlikely to be
 noticed during normal watching, I probably won't bother, but you can file an
 issue on this repo and I'll keep an eye out for it if/when I do another upscale
 of that episode.
