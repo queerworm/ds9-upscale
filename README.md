@@ -15,6 +15,11 @@ the usual places season-by-season. See [here][status] for the current status.
 
 [status]: https://github.com/QueerWorm/ds9-upscale/blob/master/status.md
 
+I'll post clips on [Tumblr][] and on [Mega][].
+
+[Tumblr]: https://queerspaceworm.tumblr.com
+[Mega]: https://mega.nz/folder/LeQCQQpK#pBfKzl3TewJxWkjBng3jSw
+
 ## FAQ
 
 ### Why only 960p? Why not 1080p or 4K?
