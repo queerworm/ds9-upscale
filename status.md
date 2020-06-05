@@ -7,7 +7,7 @@
 | Season 1  | In Progress...          |
 | Season 2  | Not Started             |
 | Season 3  | Not Started             |
-| Season 4  | Uploading to seedbox... |
+| Season 4  | Available               |
 | Season 5  | Not Started             |
 | Season 6  | Not Started             |
 | Season 7  | Not Started             |
@@ -33,4 +33,6 @@ All videos use the H.264 "High" profile and yuv420p chroma-subsampling.
 
 ## Where to Find
 
-I won't link to the torrents directly here, to avoid any potential takedown by GitHub. Season 4 is not yet available, but will be soon.
+I won't link to the torrents directly here, to avoid any potential takedown by GitHub.
+
+You can find the magnet link for Season 4 on my Reddit page. I'm **/u/queerspaceworm**.
