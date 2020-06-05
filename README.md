@@ -10,8 +10,11 @@ If you want to perform this upscale yourself, follow [this guide][guide].
 
 [guide]: https://github.com/QueerWorm/ds9-upscale/blob/master/guide.md
 
-If you'd rather just download an existing upscale, I'll be uploading them in to
-the usual places season-by-season. See [here][status] for the current status.
+If you'd rather just download an existing upscale, I'll provide torrents as
+I finish each season. Season 4 is available now on my Reddit,
+/u/queerspaceworm.
+
+See [here][status] for the current status of my upscale.
 
 [status]: https://github.com/QueerWorm/ds9-upscale/blob/master/status.md
 
@@ -137,7 +140,8 @@ got.
 ### What's the meaning of your username?
 
 I'm a queer woman, as is Jadzia Dax, whose symbiont could also be described as
-a worm. Hence, QueerWorm.
+a worm. Hence, QueerWorm. On Reddit and Tumblr, that name was already taken, so
+I'm queerspaceworm instead.
 
 ### Can you upscale Voyager?
 
