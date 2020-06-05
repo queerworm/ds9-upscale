@@ -11,8 +11,9 @@ If you want to perform this upscale yourself, follow [this guide][guide].
 [guide]: https://github.com/QueerWorm/ds9-upscale/blob/master/guide.md
 
 If you'd rather just download an existing upscale, I'll provide torrents as
-I finish each season. Season 4 is available now on my Reddit,
-/u/queerspaceworm.
+I finish each season.
+
+Season 4 is available now on my Reddit, /u/queerspaceworm.
 
 See [here][status] for the current status of my upscale.
 
