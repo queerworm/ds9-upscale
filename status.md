@@ -5,8 +5,8 @@
 | Season    | Status                  |
 | --------- | ----------------------- |
 | Season 1  | Available               |
-| Season 2  | In Progress...          |
-| Season 3  | Not Started             |
+| Season 2  | Available               |
+| Season 3  | In Progress...          |
 | Season 4  | Available               |
 | Season 5  | Not Started             |
 | Season 6  | Not Started             |
@@ -35,6 +35,6 @@ All videos use the H.264 "High" profile and yuv420p chroma-subsampling.
 
 I won't link to the torrents directly here, to avoid any potential takedown by GitHub.
 
-You can find the magnet links for Seasons 1 and 4 on my Reddit page. I'm **/u/queerspaceworm**.
+You can find the magnet links for Seasons 1, 2, and 4 on my Reddit page. I'm **/u/queerspaceworm**.
 
 I'm also posting torrents to 1337X. My username is **queerworm**.
