@@ -82,10 +82,10 @@ With that in mind, here's the process I'm using.
 This workflow assumes you already have access to a high-quality rip of the DS9
 DVDs in a format that Topaz will accept. My computer doesn't have an optical
 drive, and it's not worth it to me to get one just to rip the DVDs myself, so
-I'm using the DVD rips that are on RARBG. I've found them to be very high
-quality, and I'm happy with the results of upscaling them. These rips also embed
-chapters and subtitles in the files themselves, which means I don't have to
-track them down separately.
+I'm using DVD rips from someone known as "JCH", which I downloaded from RARBG.
+I've found them to be very high quality, and I'm happy with the results of
+upscaling them. These rips also embed chapters and subtitles in the files
+themselves, which means I don't have to track them down separately.
 
 If you rip the DVDs yourself, or use a different existing rip, you'll want to
 make sure that you preserve the original variable framerate source. Most scenes
@@ -344,6 +344,34 @@ You can then make the final MKV file with:
 ```
 make-ds9-mkv *Rejoined\ DVD.mkv raw-upscale.mkv
 ```
+
+## IV. Making Clips
+
+This isn't strictly relevant if you're just upscaling episodes for your personal
+use, but I figured it made sense to post the settings I use for encoding the
+clips that I post on [Tumblr][].
+
+For most clips, I just use the following Fish function:
+
+```fish
+function make-clip -a source start end out
+    ffmpeg -i $source -ss $start -to $end -c:v libx264 -profile:v high -crf 18 -c:a aac -af "channelmap=channel_layout=5.1" $out
+end
+```
+
+I'm using the same video settings as above, but I am re-encoding instead of
+cutting the existing video stream because that led to audio sync issues. I also
+convert the audio from AC3 to AAC because browsers lack support for AC3 audio.
+
+After encoding the clip, if it's larger than 100MB (Tumblr's file size limit),
+I'll then encode into a WebM with VP9 video and Opus audio.
+
+Tumblr does re-encode the clips into smaller files after I upload them, but it
+doesn't seem like much (if any) visual quality is lost. The episode MKV files
+(which only went through one encode after upscaling) will probably look better
+than the clips in some cases though.
+
+[Tumblr]: https://queerspaceworm.tumblr.com
 
 ## Conclusion
 
