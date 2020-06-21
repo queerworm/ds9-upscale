@@ -13,7 +13,7 @@ If you want to perform this upscale yourself, follow [this guide][guide].
 If you'd rather just download an existing upscale, I'll provide torrents as
 I finish each season.
 
-Season 4 is available now on my Reddit, /u/queerspaceworm.
+The first four seasons are available now on my Reddit, /u/queerspaceworm.
 
 See [here][status] for the current status of my upscale.
 
