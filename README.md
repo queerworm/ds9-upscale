@@ -13,16 +13,19 @@ If you want to perform this upscale yourself, follow [this guide][guide].
 If you'd rather just download an existing upscale, I'll provide torrents as
 I finish each season.
 
-The first four seasons are available now on my Reddit, /u/queerspaceworm.
+The first five seasons are available now on my Reddit, /u/queerspaceworm.
+
+If you download my upscale, I'd appreciate feedback [here][survey].
+
+[survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyO1X9FKTjwgw9tNnMEYXUZ-F1C0ZL3jH_OmO6e0uL7-PLvg/viewform
 
 See [here][status] for the current status of my upscale.
 
 [status]: https://github.com/QueerWorm/ds9-upscale/blob/master/status.md
 
-I'll post clips on [Tumblr][] and on [Mega][].
+I post clips and status updates on [Tumblr][].
 
 [Tumblr]: https://queerspaceworm.tumblr.com
-[Mega]: https://mega.nz/folder/LeQCQQpK#pBfKzl3TewJxWkjBng3jSw
 
 ## FAQ
 
