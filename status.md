@@ -9,8 +9,8 @@
 | Season 3  | Available               |
 | Season 4  | Available               |
 | Season 5  | Available               |
-| Season 6  | In Progress...          |
-| Season 7  | Not Started             |
+| Season 6  | Available               |
+| Season 7  | In Progress...          |
 
 ## Upscale Versions
 
@@ -35,7 +35,7 @@ All videos use the H.264 "High" profile and yuv420p chroma-subsampling.
 
 I won't link to the torrents directly here, to avoid any potential takedown by GitHub.
 
-You can find the magnet links for Seasons 1-5 on my Reddit page. I'm **/u/queerspaceworm**.
+You can find the magnet links for Seasons 1-6 on my Reddit page. I'm **/u/queerspaceworm**.
 
 I'm also posting torrents to 1337X. My username is **queerworm**.
 
