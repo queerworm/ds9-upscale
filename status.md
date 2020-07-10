@@ -10,7 +10,7 @@
 | Season 4  | Available               |
 | Season 5  | Available               |
 | Season 6  | Available               |
-| Season 7  | In Progress...          |
+| Season 7  | Available               |
 
 ## Upscale Versions
 
