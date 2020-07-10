@@ -10,18 +10,12 @@ If you want to perform this upscale yourself, follow [this guide][guide].
 
 [guide]: https://github.com/QueerWorm/ds9-upscale/blob/master/guide.md
 
-If you'd rather just download an existing upscale, I'll provide torrents as
-I finish each season.
-
-The first five seasons are available now on my Reddit, /u/queerspaceworm.
+If you'd rather just download an existing upscale, magnet links are
+available on my Reddit, /u/queerspaceworm.
 
 If you download my upscale, I'd appreciate feedback [here][survey].
 
 [survey]: https://docs.google.com/forms/d/e/1FAIpQLSdyO1X9FKTjwgw9tNnMEYXUZ-F1C0ZL3jH_OmO6e0uL7-PLvg/viewform
-
-See [here][status] for the current status of my upscale.
-
-[status]: https://github.com/QueerWorm/ds9-upscale/blob/master/status.md
 
 I post clips and status updates on [Tumblr][].
 
@@ -150,8 +144,9 @@ I'm queerspaceworm instead.
 ### Can you upscale Voyager?
 
 I haven't tried it myself, but I assume the process I use for DS9 should work
-just as well for Voyager. Once I finish DS9, I'll consider it, but I'm not as
-invested in Voyager as I am in DS9, so it wouldn't be high priority for me.
+just as well for Voyager. At the moment, I don't have plans to upscale Voyager
+myself (I'm just not as interested in rewatching it as I am in DS9), but if I
+ever do in the future, I'll mention so here.
 
 If someone else uses my guide to upscale Voyager, let me know and I'll link it
 here.
